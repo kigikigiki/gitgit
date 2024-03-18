@@ -1,0 +1,4 @@
+/private
+*.com
+private.*
+.env
